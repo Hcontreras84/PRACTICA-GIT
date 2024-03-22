@@ -6,3 +6,4 @@ Samuel Pereira
 Jorge Cruz
 Lina Alvarez
 SAndra Perez
+Se agrega un nuevo cliente desde el remoto
